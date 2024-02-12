@@ -1,0 +1,4 @@
+-  Play a random recording from the Voice Memos app (that contains a number).
+-  NOTE: you have to manually set the upper limit of the number of voice memos (currently 190) within which a random number has a Voice Memos recording match.
+-  Originally created to manually assign names to recordings in place of the automatically generated ones.
+-  The numbers that were  visited already get saved locally so that they are not repeated.
